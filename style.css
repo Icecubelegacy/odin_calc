@@ -1,0 +1,33 @@
+.container {
+  font-size: x-large;
+}
+
+.topRow {
+  display: flex;
+  flex: 1;
+  background-color: red;
+}
+
+.display {
+  background-color: #c3cbe1;
+  width: 372px;
+}
+
+.body {
+  display: flex;
+  background-color: aqua;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: #91a2bd;
+  color: #F9FAF8;
+  border-radius: 6px;
+  border: 1px solid red;
+  width: 120px;
+  height: 60px;
+}
